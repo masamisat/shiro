@@ -144,8 +144,11 @@ section {
   padding: 0;
   line-height: 11vh;
   text-align: center;
-  font-size: 18px;
+  font-size: 2rem;
   border-top: 1px solid #ccc;
+}
+.header__menu__item a {
+    display: block;
 }
 .header__menu__item:last-of-type {
   border-bottom: 1px solid #ccc;
