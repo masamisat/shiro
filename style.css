@@ -306,7 +306,7 @@ section {
 }
 .btn__contact {
   position: relative;
-  width: 360px;
+  max-width: 360px;
   height: 80px;
   margin: 0 auto;
   background: #fff;
