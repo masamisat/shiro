@@ -139,6 +139,7 @@ section {
   overflow: hidden;
   background: rgba(255, 255, 255, .9);
   transition: all .3s;
+  padding: 0;
 }
 .header__menu__item {
   padding: 0;
