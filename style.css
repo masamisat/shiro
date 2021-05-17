@@ -293,6 +293,7 @@ section {
     vertical-align: top;
     font-weight: normal;
     border-right: 1px solid #A0A0A0;
+    padding: 0 6px;
 }
 
 .contact {
